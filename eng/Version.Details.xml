@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <!-- Elements contains all product dependencies -->
-  <ProductDependencies></ProductDependencies>
+  <ProductDependencies>
+  </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.ProjectReunion.Foundation.TransportPackage" Version="0.5.0-CI-20210505-001911">
+    <Dependency Name="Microsoft.ProjectReunion.Foundation.TransportPackage" Version="0.8.0-main.20210513.22.nightly">
       <Uri>https://github.com/microsoft/ProjectReunion</Uri>
-      <Sha></Sha>
+      <Sha>c59f2ecd6edee146fbdac206aeb88c47ead1f328</Sha>
     </Dependency>
   </ToolsetDependencies>
 </Dependencies>
