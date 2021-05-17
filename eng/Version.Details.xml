@@ -3,10 +3,9 @@
   <!-- Elements contains all product dependencies -->
   <ProductDependencies></ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.0.0-beta.1.9.1.22.1">
-      <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>44a0f58d1f465f9c35a24768cf44ba14811c8bfb</Sha>
-      <SourceBuildId>142</SourceBuildId>
+    <Dependency Name="Microsoft.ProjectReunion.Foundation.TransportPackage" Version="0.5.0-CI-20210505-001911">
+      <Uri>https://github.com/microsoft/ProjectReunion</Uri>
+      <Sha></Sha>
     </Dependency>
   </ToolsetDependencies>
 </Dependencies>
