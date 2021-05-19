@@ -4,9 +4,9 @@
   <ProductDependencies>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.ProjectReunion.Foundation.TransportPackage" Version="0.8.0-main.20210518.10.nightly">
+    <Dependency Name="Microsoft.ProjectReunion.Foundation.TransportPackage" Version="1.0.0">
       <Uri>https://github.com/microsoft/ProjectReunion</Uri>
-      <Sha>49f50367fedde506737202eeb1622877449cb30e</Sha>
+      <Sha>1cac3b5c55f2ebee42ea33f6606268dd1f684234</Sha>
     </Dependency>
   </ToolsetDependencies>
 </Dependencies>
